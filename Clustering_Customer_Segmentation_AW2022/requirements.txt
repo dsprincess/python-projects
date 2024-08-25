@@ -1,0 +1,6 @@
+pyodbc
+pandas
+sklearn
+sqlalchemy
+seaborn
+matplotlib.pyplot
