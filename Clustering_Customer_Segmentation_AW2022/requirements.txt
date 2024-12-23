@@ -4,3 +4,4 @@ sklearn
 sqlalchemy
 seaborn
 matplotlib.pyplot
+statsmodels
